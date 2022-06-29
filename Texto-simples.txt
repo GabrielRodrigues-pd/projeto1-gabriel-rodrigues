@@ -1,1 +1,28 @@
 Primeira versão do app
+
+Primeiros passos no Git
+
+1 - git init 
+(para iniciar o git na pasta)
+
+2 - git status
+(para ver os status dos arquivos da minha pasta)
+
+3 - git add "nome do arquivo"
+(prepara o arquivo para o controle de versão)
+
+4 - git add .
+(add todos os aquivos de uma vez só)
+
+5 - git commit -m "commit inicial"
+(os arquivos estão prontos para serem enviados para o github)
+(commit é basicamente versões do código)
+
+6 - git remote add origin https://github.com/GabrielRodrigues-pd/projeto1-gabriel-rodrigues
+(direciona para onde o codigo vai ser levado)
+
+7 - git push --set-upstream origin master
+(direciona para que brand deve ser enviada)
+
+7 - git push
+(para levar o projeto para o github)
