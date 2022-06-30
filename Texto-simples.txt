@@ -24,5 +24,8 @@ Primeiros passos no Git
 7 - git push --set-upstream origin master
 (direciona para que brand deve ser enviada)
 
-7 - git push
+8 - git push
 (para levar o projeto para o github)
+
+9 - Git reflog 
+(comando para ver o historico de versões do codigo)
